@@ -11,9 +11,10 @@ step3: then i came to switch.
                enable                    \\enable priviledge mode
                configure terminal        \\ terminal configur
                interface Vlan 1or2        \\ vlan interfacing
-               ip address & Subnet 
-               no shutdown
-               exit 
+               ip address & Subnet            
+               no shutdown                 \\up the switch command
+               shutdown                     \\down the switch command
+               exit                          \\get the terminal CLI
 
       
 
