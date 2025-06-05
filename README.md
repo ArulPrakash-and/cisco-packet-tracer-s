@@ -16,7 +16,8 @@ step3: then i came to switch.
                shutdown                     \\down the switch command
                exit                          \\get the terminal CLI
 
-      
+ #2server 1 switch 1 security 1 router
+ here i give only dhcp for IP address
 
 
 
